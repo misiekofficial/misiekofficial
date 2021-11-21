@@ -1,11 +1,12 @@
 ### Hello, I'm Michał and I'm 18 years old - aka [Misiek][discord] 👋 
 
-## I'm a Student, and Developer!!
+## I'm a Student, and Home Developer!!
 
 - 🌱 I'm creating/editing scripts or many another thinks to FiveM
 - 🌱 I’m currently learning everything 🤣
+- 🌱 I'm currently working as an auto mechanic [apprentice]
 
-### Connect with me:
+### Contact with me:
 
 [<img align="left" alt="https://discord.gg/HtPSCZrxnC" width="22px" src="https://github.com/NYRI4/Discolored/blob/master/assets/crash.svg" />][discord]
 
