@@ -1,4 +1,4 @@
-### Hello, I'm Michał and I'm 18 years old - aka [Misiek][discord] 👋 
+### Hello, I'm Michał and I'm 19 years old - aka [Misiek][discord] 👋 
 
 ## I'm a Student, and Home Developer!!
 
