@@ -8,7 +8,7 @@
 
 ### Contact with me:
 
-[<img align="left" alt="https://discord.gg/HtPSCZrxnC" width="22px" src="https://github.com/NYRI4/Discolored/blob/master/assets/crash.svg" />][discord]
+[<img align="left" alt="https://discord.gg/P9CfhVTuzW" width="22px" src="https://github.com/NYRI4/Discolored/blob/master/assets/crash.svg" />][discord]
 
 <br />
 
@@ -25,4 +25,4 @@
 <br />
 <br />
 
-[discord]: https://discord.gg/HtPSCZrxnC
+[discord]: https://discord.gg/P9CfhVTuzW
