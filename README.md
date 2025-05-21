@@ -23,8 +23,8 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="misiekdev"  />
-  <img src="https://img.shields.io/static/v1?message=Community Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="https://discord.gg/P8KKAb7D4q"  />
+  <img src="https://img.shields.io/static/v1?message=misiekdev&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="misiekdev"  />
+  <img src="https://img.shields.io/static/v1?message=https://discord.gg/P8KKAb7D4q&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord server"  />
 </div>
 
 ###
